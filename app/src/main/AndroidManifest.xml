@@ -11,7 +11,8 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".Activities.CityActivity"></activity>
-        <activity android:name=".Activities.SearchActivity">
+        <activity android:configChanges="orientation"
+			android:name=".Activities.SearchActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
