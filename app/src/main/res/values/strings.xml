@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="empty_result">Город не найден!</string>
+    <string name="search_hint">Введите город для поиска</string>
+</resources>

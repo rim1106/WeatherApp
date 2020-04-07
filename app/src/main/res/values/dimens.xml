@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="search_margin">20dip</dimen>
+    <dimen name="input_radius">50dip</dimen>
+    <dimen name="input_height">100dip</dimen>
+    <dimen name="input_left_padding">30dip</dimen>
+    <dimen name="input_right_padding">30dip</dimen>
+    <dimen name="input_top_padding">10dip</dimen>
+    <dimen name="input_bottom_padding">10dip</dimen>
+    <dimen name="text_margin">20dip</dimen>
+    <dimen name="header_size">22sp</dimen>
+    <dimen name="subheader_size">14sp</dimen>
+    <dimen name="city_size">24sp</dimen>
+    <dimen name="weather_size">18sp</dimen>
+</resources>
